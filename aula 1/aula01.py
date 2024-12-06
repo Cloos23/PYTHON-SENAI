@@ -1,0 +1,6 @@
+print('olá, mundo!')
+print('quero férias!!')
+print('não aguento mais, estou morta')
+print('estou  xoxa, capenga')
+print('não aguento maisssssssss, quero  minha casa, minha cama')
+print('estou xoxa, capenga, feia, mas minha unha está feita')
